@@ -23,6 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-kr6&show_icons=true&locale=en&layout=compact" alt="ankit-kr6" /></p>
 
+<img src="https://raw.githubusercontent.com/ankit-kr6/snake-animation/output/snake.svg" />
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-kr6&show_icons=true&locale=en" alt="ankit-kr6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr6&" alt="ankit-kr6" /></p>
