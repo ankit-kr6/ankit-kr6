@@ -27,3 +27,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kr6&" alt="ankit-kr6" /></p>
 
+<img src="https://raw.githubusercontent.com/ankit-kr6/snake-animation/output/snake.svg" />
+
+
