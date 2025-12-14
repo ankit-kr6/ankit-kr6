@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit kumar mandal</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-kr6" alt="ankit-kr6" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankit-kr6" alt="ankit-kr6" /></a> </p> -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 - 🌱 I’m currently learning **Machine Learning.**
